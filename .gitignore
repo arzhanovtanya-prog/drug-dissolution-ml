@@ -15,3 +15,4 @@ venv/
 # IDE
 .idea/
 .vscode/
+!clotrimazole_descriptors.csv
