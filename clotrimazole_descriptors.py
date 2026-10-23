@@ -29,7 +29,7 @@ descriptors = {
     "Drug_Heavy_Atoms": mol.GetNumHeavyAtoms(),
 }
 
-# Путь сохранения — рядом с этим скриптом
+# Путь сохранения рядом с этим скриптом
 output_path = Path(__file__).resolve().parent / "clotrimazole_descriptors.csv"
 
 # Сохраняем результаты
