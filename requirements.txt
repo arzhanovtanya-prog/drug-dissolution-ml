@@ -3,4 +3,4 @@ pandas
 lightgbm
 scikit-learn
 openpyxl
-!clotrimazole_descriptors.csv
+
